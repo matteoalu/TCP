@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1406027204 source:c:\users\studente\desktop\tcp_server\tcp_server\server.c
+	<stdio.h>
+	<string.h>
+	<WinSock.h>
+	"sequence.h"
+
+1421930015 c:\users\studente\desktop\tcp_server\tcp_server\sequence.h
+	<stdio.h>
+
+1406027204 source:c:\users\studente\desktop\mancini ilaria\tcp_server\tcp_server\server.c
+	<stdio.h>
+	<string.h>
+	<WinSock.h>
+	"sequence.h"
+
+1421930015 c:\users\studente\desktop\mancini ilaria\tcp_server\tcp_server\sequence.h
+	<stdio.h>
+
